@@ -1,0 +1,34 @@
+_repo: Ritchie-s-Fabulae-Faciles-A-First-Latin-Reader_8997
+contributor:
+  creator:
+    editor:
+      agent_name: Kirtland, John Copeland
+      birthdate: 1870
+      deathdate: 1951
+      gutenberg_agent_id: '2950'
+      url: http://www.gutenberg.org/2009/agents/2950
+creator:
+  author:
+    agent_name: Ritchie, Francis
+    alias: Ritchie, F. (Francis)
+    gutenberg_agent_id: '34836'
+    url: http://www.gutenberg.org/2009/agents/34836
+description: Perseus -- Hercules -- The Argonauts -- Ulysses.
+gutenberg_bookshelf:
+- Language Education
+- Children's Instructional Books
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8997'
+language:
+- en
+- la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Latin language -- Readers -- Mythology'
+title: 'Ritchie''s Fabulae Faciles: A First Latin Reader'
+url: http://www.gutenberg.org/ebooks/8997
